@@ -1,5 +1,5 @@
 # Tugas Pemrograman Berbasis Platform
 
-## Video Demonstrasi
+**Video YouTube:**
 
-[Klik untuk melihat video di YouTube](https://youtu.be/vqqLTdfGjeE?si=vDmnQ4T1vv9k354_)
+https://youtu.be/vqqLTdfGjeE?si=vDmnQ4T1vv9k354_
